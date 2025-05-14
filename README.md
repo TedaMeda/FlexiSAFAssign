@@ -1,4 +1,4 @@
 # FlexiSAFAssign
 Assignment Tasks for FlexiSAF
 
-* Find each task within relevent folder
+* All tasks are implemented in one project
